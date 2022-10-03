@@ -27,7 +27,7 @@ const folders = [
 //     this.state = {
 //       showClock: true
 //     };
-//   }
+//   } 
 
 //     toggleClock = () => this.setState({ showClock: !this.state.showClock });
 
